@@ -1,5 +1,9 @@
-jqm-multiple-month-picker
+jQuery multiple month picker
 =========================
+
+Based on lalkmim's brilliant jqm-multiple-month-picker for mobile, I've edited the code to make a multi month picker for any platform!
+
+The style is more plain, but it works on any device! So I'll leave the front-end to you lovely people :D
 
 Usage
 -----
