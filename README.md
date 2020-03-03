@@ -33,4 +33,4 @@ $('#testarea').mmp('value', ['2014-01', '2014-02', '2014-07']);
 
 Example
 -----
-http://cdn.rawgit.com/lalkmim/jqm-multiple-month-picker/master/testfile.html
+https://jxt.github.io/jquery-multiple-month-picker/demo/index.html
